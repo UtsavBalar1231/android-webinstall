@@ -4,24 +4,24 @@
             {
                 "version": "11.5.2",
                 "variant": "minimal",
-                "url": "https://drive.google.com/uc?id=1AbI66niNrDtLv3-lxYSGRXMzSybvy1bB&export=download"
+                "url": "https://dl.hasaber8.me/ProtonAOSP/proton-aosp_alioth-img-20210625-minimal.zip"
             },
             {
                 "version": "11.5.2",
                 "variant": "gapps",
-                "url": "https://drive.google.com/uc?id=1AbI66niNrDtLv3-lxYSGRXMzSybvy1bB&export=download"
+                "url": "https://dl.hasaber8.me/ProtonAOSP/proton-aosp_alioth-img-20210625-gapps.zip"
             }
         ],
         "aliothin": [
             {
                 "version": "11.5.2",
                 "variant": "minimal",
-                "url": "https://drive.google.com/uc?id=1AbI66niNrDtLv3-lxYSGRXMzSybvy1bB&export=download"
+                "url": "https://dl.hasaber8.me/ProtonAOSP/proton-aosp_aliothin-img-20210625-minimal.zip"
             },
             {
                 "version": "11.5.2",
                 "variant": "gapps",
-                "url": "https://drive.google.com/uc?id=1AbI66niNrDtLv3-lxYSGRXMzSybvy1bB&export=download"
+                "url": "https://dl.hasaber8.me/ProtonAOSP/proton-aosp_aliothin-img-20210625-gapps.zip"
             }
         ]
     }
